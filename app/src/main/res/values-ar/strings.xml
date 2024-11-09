@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Egypt Explorer</string>
+    <string name="game_over">انتهت !!!</string>
+    <string name="try_again">جرب تاني</string>
+    <string name="position">المكان</string>
+    <string name="about_text">اختبر معلوماتك عن تاريخ مصر وثقافتها وجغرافيتها! أجب عن الأسئلة لتكتشف حقائق رائعة عن أرض الفراعنة.</string>
+    <string name="rules_text">اختر الإجابة من الخيارات المقدمة. في كل مرة تحصل فيها على إجابة صحيحة، تنتقل إلى السؤال التالي وتزداد نتيجتك بمقدار واحد. إذا حصلت على إجابة خاطئة، فلديك 3 أرواح وعندما تستخدمها تنتهي اللعبة! يمكنك العودة إلى شاشة العنوان باستخدام زر \"أعلى\" أو \"رجوع\" من داخل شاشة اللعبة، وسيؤدي هذا أيضًا إلى إنهاء اللعبة.</string>
+    <string name="title_page">مرحبًا بكم في مستكشف مصر! انغمس في عجائب مصر من خلال أسئلة ممتعة وتحديات!</string>
+    <string name="rules">القواعد</string>
+    <string name="about">عن البرنامج</string>
+    <string name="submit_button">العب مره اخري</string>
+    <string name="congratulations">مبرووووووك</string>
+    <string name="play">ابداء اللعب</string>
+    <string name="language">اللغه</string>
+    <string name="english">الانجليزية</string>
+    <string name="arabic">العربية</string>
+    <string name="score">النبيجة</string>
+    <string name="lives">عدد المحاولات</string>
+</resources>

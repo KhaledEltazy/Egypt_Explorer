@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Egypt Explorer</string>
+    <string name="game_over">Game Over</string>
+    <string name="try_again">Try Again?</string>
+    <string name="position">Position</string>
+    <string name="about_text">Test your knowledge of Egypt’s history, culture, and geography! Answer questions to unlock fascinating facts about the land of the Pharaohs.</string>
+    <string name="rules_text">Select the answer from the options given. Each time you get an answer correct, you advance to the next question and your score increase by one.  If you get the answer wrong,you have 3 lives and when you use them your game ends! You can return to the title screen using up or back from within the game screen, and this will also end your game.</string>
+   <string name="title_page">Welcome to Egypt Explorer! Dive into the wonders of Egypt with fun and challenging questions!</string>
+    <string name="rules">Rules</string>
+    <string name="about">About</string>
+    <string name="trivia_hint" translatable="false">Trivia Hint</string>
+    <string name="title_egypt_explorer_question" translatable="false">Android Trivia (%1$d/%2$d)</string>
+    <string name="title_about_explorer" translatable="false">About Egypt Explorer</string>
+    <string name="title_explorer_rules" translatable="false">Trivia Rules</string>
+    <string name="submit_button">Submit</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="play">Play</string>
+    <string name="language">Language</string>
+    <string name="english">English</string>
+    <string name="arabic">Arabic</string>
+    <string name="score">Score :</string>
+    <string name="lives">Lives</string>
+</resources>
