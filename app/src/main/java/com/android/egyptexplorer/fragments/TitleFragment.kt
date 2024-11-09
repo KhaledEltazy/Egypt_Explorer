@@ -20,30 +20,17 @@ class TitleFragment : Fragment() {
         savedInstanceState: Bundle?
     ): View? {
         binding = DataBindingUtil.inflate(inflater, R.layout.fragment_title,container,false)
-        setHasOptionsMenu(true)
         return binding.root
     }
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
-        (activity as AppCompatActivity).supportActionBar?.title = "Android Trivia"
+        (activity as AppCompatActivity).supportActionBar?.title = "Egypt Explorer"
 
         binding.playBtn.setOnClickListener{
             findNavController().navigate(R.id.action_titleFragment_to_gameFragment)
         }
     }
 
-
-   /*override fun onCreateOptionsMenu(menu: Menu, inflater: MenuInflater) {
-        super.onCreateOptionsMenu(menu, inflater)
-        inflater.inflate(R.menu.option_menu,menu)
-    }
-
-  override fun onOptionsItemSelected(item: MenuItem): Boolean {
-        when(item.itemId){
-
-        }
-        return NavigationUI.onNavDestinationSelected(item!!,requireView().findNavController()) || super.onOptionsItemSelected(item)
-    }*/
 
 }

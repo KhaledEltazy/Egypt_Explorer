@@ -20,6 +20,6 @@ class RulesFragment : Fragment() {
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
-        (activity as AppCompatActivity).supportActionBar?.title = "Android Trivia Rules"
+        (activity as AppCompatActivity).supportActionBar?.title = "Egypt Explorer Rules"
     }
 }

@@ -43,7 +43,7 @@ class GameFragment : Fragment() {
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
-        (activity as AppCompatActivity).supportActionBar?.title = "Android Trivia Game"
+        (activity as AppCompatActivity).supportActionBar?.title = "Egypt Explorer Game"
 
         if(Locale.getDefault().language == "ar"){
             questions = Questions().questionsAr

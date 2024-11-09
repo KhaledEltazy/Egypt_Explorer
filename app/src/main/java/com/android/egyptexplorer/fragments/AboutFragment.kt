@@ -22,6 +22,6 @@ class AboutFragment : Fragment() {
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
-        (activity as AppCompatActivity).supportActionBar?.title = "About Android Trivia"
+        (activity as AppCompatActivity).supportActionBar?.title = "About Egypt Explorer"
     }
 }
